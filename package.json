@@ -54,7 +54,8 @@
       "no-unused-vars": "off",
       "vue/no-use-v-if-with-v-for": "off",
       "vue/no-unused-components": "off",
-      "vue/no-unused-vars": "off"
+      "vue/no-unused-vars": "off",
+      "no-console": "off"
     },
     "parserOptions": {
       "parser": "babel-eslint"
