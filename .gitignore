@@ -1,0 +1,11 @@
+.idea
+.settings
+.iws
+
+build/
+nbbuild/
+dist/
+nbdist/
+
+log/
+.svn/
